@@ -1,0 +1,39 @@
+{
+    "nombre": "Componentes",
+    "rutas": [{
+            "ruta": "alert",
+            "icon": "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta": "avatar",
+            "icon": "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "ruta": "card",
+            "icon": "folder_open",
+            "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta": "container",
+            "icon": "add_reaction",
+            "texto": "Animated Container"
+        },
+        {
+            "ruta": "input",
+            "icon": "input",
+            "texto": "Inputs"
+        },
+        {
+            "ruta": "slider",
+            "icon": "check_circle_rounded",
+            "texto": "Slider - Checks"
+        },
+        {
+            "ruta": "lists",
+            "icon": "checklist_rtl",
+            "texto": "Listas y Scroll"
+        }
+    ]
+}
